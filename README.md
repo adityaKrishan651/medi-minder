@@ -1,6 +1,6 @@
 # MediMinder
 
-Some Description!
+A app to suit all your medical needs.
 
 ## Subheader
 
